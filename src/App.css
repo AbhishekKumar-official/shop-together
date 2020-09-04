@@ -9,3 +9,8 @@ body {
   font-family: "Montserrat", sans-serif;
   padding: 20px 60px;
 }
+a {
+  list-style: none;
+  text-decoration: none;
+  color: #333333;
+}

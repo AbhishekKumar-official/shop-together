@@ -1,0 +1,22 @@
+.header {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  align-items: center;
+
+  .logo-container {
+    height: 100%;
+    width: 100%;
+  }
+
+  .options {
+    display: flex;
+    height: 100%;
+    column-gap: 20px;
+    .option {
+      font-weight: bold;
+    }
+  }
+}
