@@ -5,12 +5,12 @@ html {
 }
 
 body {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
-  padding: 20px 60px;
 }
 a {
   list-style: none;
   text-decoration: none;
-  color: #333333;
 }

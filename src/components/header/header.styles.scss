@@ -1,22 +1,22 @@
 .header {
-  height: 100%;
-  width: 100%;
+  max-width: 100%;
   display: flex;
   justify-content: space-between;
   margin-bottom: 25px;
   align-items: center;
-
+  background-color: #333333;
+  padding: 0 30px;
   .logo-container {
-    height: 100%;
-    width: 100%;
+    align-items: center;
   }
 
   .options {
     display: flex;
     height: 100%;
+    align-items: center;
     column-gap: 20px;
     .option {
-      font-weight: bold;
+      color: #fff;
     }
   }
 }
